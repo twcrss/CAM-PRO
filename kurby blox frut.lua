@@ -1,6 +1,6 @@
 --[[
 ╔═══════════════════════════════════════════╗
-║        KURBY RIVAL SCRIPT  v2.1           ║
+║        Blox Fruit  SCRIPT  v2.1           ║
 ║     Protected by KURBY Art Obfuscator     ║
 ╚═══════════════════════════════════════════╝
 --]]
